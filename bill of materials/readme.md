@@ -10,3 +10,4 @@
 |         5| ESP32 S-module | Microcontroller | Nieuw | € 10,15 | 1 | € 10,15 |
 |         6| DC motor | 50:1, 6V, 1000RPM | Nieuw | € 3,14 | 1 | € 13,84 |
 |         7| Switch | Switch | Nieuw | € 1,09 | 1 | € 1,09 |
+|         7| Power Supply | 18650 batterij 3300mAh | Nieuw | € 8,87 | 2 | € 17,64 |
