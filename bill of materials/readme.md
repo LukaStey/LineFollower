@@ -11,3 +11,4 @@
 |         6| DC motor | 50:1, 6V, 1000RPM | Nieuw | € 3,14 | 1 | € 13,84 |
 |         7| Switch | Switch | Nieuw | € 1,09 | 1 | € 1,09 |
 |         8| Power Supply | 18650 batterij 3300mAh | Nieuw | € 8,87 | 2 | € 17,64 |
+|         9| Frame | 2WD robot chassis with motors and wheels | Nieuw | € 15,34 | 11 | € € 15,34 |
