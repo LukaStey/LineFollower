@@ -15,7 +15,7 @@ Open op je laptop/smartphone een Bluetooth-terminal-app (bijv. Serial Bluetooth 
 
 Zoek naar het apparaat met naam zoals "ESP32-BT".
 
-Maak verbinding.
+Maak verbinding via een seriële communicatie, COM4 met een baudrate van 115200.
 
 Je kunt nu commando’s typen en de robot zal reageren.
 
