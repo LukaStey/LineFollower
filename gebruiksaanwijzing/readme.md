@@ -13,7 +13,7 @@ Schakel de robot aan.
 
 Open op je laptop/smartphone een Bluetooth-terminal-app (bijv. Serial Bluetooth Terminal).
 
-Zoek naar het apparaat met naam zoals "ESP32_Robot".
+Zoek naar het apparaat met naam zoals "ESP32-BT".
 
 Maak verbinding.
 
@@ -23,22 +23,30 @@ Je kunt nu commando’s typen en de robot zal reageren.
 set kp [0..]  (Stel P-waarde van PID-regelaar in.)
 set ki [0..]  (Stel I-waarde van PID-regelaar in.)
 set kd [0..]  (Stel D-waarde van PID-regelaar in.)
- 
+
+set power [0..]  (Stel de snelheid in.)
+set Cycle time [0..] (Stel de tijd in waarin één cyclus overlopen wordt.)
+
+Calibrate black (laat de sensoren weten welke waarde's zwart zijn)
+Calibrate white (laat de sensoren weten welke waarde's wit zijn)
 
 ### kalibratie
-uitleg kalibratie  
+Typ in de seriële communicatie "Calibrate black" of "Calibrate white" om de sensoren te kalibreren om te detecteren wat het verschil tussen zwart en wit is.   
 
 ### settings
 De robot rijdt stabiel met volgende parameters:  
 Op basis van tests rijdt de robot stabiel met deze parameters:
 
 baseSpeed ≈ 150
-
 maxSpeed ≈ 255
 
-Kp ≈ 0.05
+Cycle time = 1000 (µs)
 
+Kp ≈ 0.05
+Kd 
 Ki = 0
+Diff = 0.5
+
 
 Kd = 0
 
