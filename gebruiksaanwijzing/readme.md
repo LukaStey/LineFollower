@@ -1,7 +1,7 @@
 # Gebruiksaanwijzing
 
 ### opladen / vervangen batterijen
-Er word gebruik gemaakt van 18650 Li-Ion batterijen. Deze zijn ook oplaadbaar.
+Er word gebruik gemaakt van 18650 Li-Ion batterijen. Deze zijn ook oplaadbaar via microUSB.
 
 ### draadloze communicatie
 #### verbinding maken
